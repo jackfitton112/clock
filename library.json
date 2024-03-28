@@ -1,0 +1,16 @@
+{
+  "name": "TinyGPSPlus-ESP32",
+  "description": "7-Segment Display Library for ESP32",
+  "keywords": "fun, segment, seven",
+  "authors": {
+    "name": "Jack Fitton",
+    "url": "https://t2k.group"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tinyu-Zhao/TinyGPSPlus-ESP32.git"
+  },
+  "version": "0.0.1",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
